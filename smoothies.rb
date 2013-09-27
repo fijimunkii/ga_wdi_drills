@@ -40,4 +40,11 @@ smoothie_ingredients = {
 # Be sure to remove the spaces, as we don't want any air bubbles in our smoothie!
 
 def blend(ingredients)
+  smoothie = ''
+  ingredients.each do |x,y|
+    smoothie += x
+  end
+  puts smoothie.gsub(/\s+/, "").split("").shuffle!.join
 end
+
+blend(smoothie_ingredients)
