@@ -1,0 +1,100 @@
+.flag {
+	height: 300px;
+	width: 600px;
+	margin: 50px auto;
+}
+#netherlands .row {
+	height: 100px;
+	width: 600px;
+}
+
+#netherlands .top {
+	background-color: red;
+}
+
+#netherlands .middle {
+	background-color: white;
+}
+
+#netherlands .bottom {
+	background-color: blue;
+}
+
+#france .clmn {
+	height: 300px;
+	width: 200px;
+	float: left;
+}
+
+#france .first {
+	background-color: blue;
+}
+
+#france .second {
+	background-color: white;
+}
+
+#france .third {
+	background-color: red;
+}
+
+#sweden {
+	background-color: blue;
+}
+
+#sweden .line {
+	background-color: yellow;
+}
+
+#sweden .vertical {
+	width: 75px;
+	height: 300px;
+	position: relative;
+	left: 150px;
+}
+
+#sweden .horizontal {
+	width: 600px;
+	height: 75px;
+	position: relative;
+	top: -175px;
+}
+
+#greece {
+	background-color: blue;
+}
+
+#greece .stripe {
+	width: 600px;
+	height: 33px;
+}
+
+#greece .white {
+	background-color: white;
+}
+
+#greece .inner {
+	height: 165px;
+	width: 165px;
+	position: relative;
+	top: -297px;
+	background-color: blue;
+}
+
+#greece .vertical {
+	height: 165px;
+	width: 33px;
+	position: relative;
+	left:65px;
+}
+
+#greece .horizontal {
+	height: 33px;
+	width: 165px;
+	position: relative;
+	top: -100px;
+}
+
+#america {
+	background-color: 
+}
